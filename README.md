@@ -1,1 +1,1 @@
-# im.hachaton
+# im.hackathon
